@@ -1,97 +1,151 @@
 {
-    "name": "成旭源",
-    "birth": "11.03",
-    "tel": "136606xxxxxx",
-    "email": "linjunjie1103@gmail.com(作者邮箱，可联系)",
-    "blog": "http://jaskey.github.io",
-    "avatar": "image/avatar.jpg",
+    "name": "张鹏",
+    "birth": "09.20",
+    "tel": "18842395546",
+    "email": ".columbia7311@163com",
+    "blog": "http://blog.csdn.net/columbia7311/article/",
+    "avatar": "image/picture.png",
     "pages": [],
     "summaries": [
-        "熟练Java、Javascript、掌握Android开发，SQL、PL/SQL；用过C、C#、VBA等其他编程语言。",
-        "掌握Spring、Spring MVC、Struts2、Hibernate、Play!；熟悉jQuery、掌握ExjJS、jQuery Mobile前端框架。",
-        "熟悉并能应用面向对象设计原则、掌握多种设计模式，熟悉Java多线程、同步模型，了解分布式架构。",
-        "突出的学习能力和学习热情，能自学MOOC课程并已完成3门证书；擅用文档、StackOverflow学习技术。"
+        "掌握 Spark 相关技术使用 熟悉 Hadoop 及相关项目 HBase、Sqoop 等",
+        "掌握 Java，了解 Scala、C#等编程语言",
+        "掌握 Linux 系统常用的操作命令,熟悉 Expect 脚本编程",
+        "熟悉 Hadoop 集群的基本运维管理",
+        "熟悉 MySQL、SQL Server 数据库管理系统",
+        "熟悉 Git 版本控制工具",
+        "了解大数据可视化工具 Tableau",
+        "了解 Java Web 开发技术"
     ],
     "workExperiences": [
         {
             "company": "大腿公司",
-            "post": "高级软件工程师",
+            "post": "高级软件22222工程师",
             "startDate": "2015.01",
             "endDate": "至今",
-            "summary": "使用Java、JavaScript开发网易游戏数据平台（有数），供百余款游戏提供可视化数据分析。",
+            "summary": "（可以不填）",
             "details": [
-                "整个系统前端交互、视觉迭代、前端重构等主要负责人；国际化、pjax局部刷新、权限管理、页面布局开发者。",
-                "完成多个专题页面：多游戏产品概览、运营报表、梦幻手游物品产销、镇魔曲实时数据分析、开测对比、付费专题、留存专题、服务器分析、武魂战斗力分析专题等。新专题页面使平台活跃/新增用户均增加约100%。"
+                "大腿aa公司的细节一",
+                "大腿公司的细节二"
             ]
         },
         {
             "company": "小牛公司",
-            "post": "软件工程师",
+            "post": "",
             "startDate": "2013.07",
             "endDate": "2015.01",
-            "summary": "开发并维护Oracle EBS（电子商务套件）资产管理系统，为全球客户（如Facebook、华为）提供系统研发支持。",
+            "summary": "小牛公司的概述（可以不填）",
             "details": [
-                "维护代码量千万级别的Java和PL/SQL代码，对系统进行新功能开发、对100多张数据库表进行数据维护。",
-                "平均每月完成10个，最高20个（KPI 4-6个）新功能/Bug fix；为全球客户开发了100多个客户功能补丁。"
+                "小牛公司的细节一",
+                "小牛公司的细节二"
             ]
         }
     ],
     "projectExperiences": [
         {
-            "projectName": "网易游戏数据分析系统",
+            "projectName": "基于大数据和知识的高速列车信息控制系统故障诊断",
             "role": "主要开发成员",
-            "startDate": "2015.01",
-            "endDate": "2016.04",
-            "summary": "",
+            "startDate": "2015.10",
+            "endDate": "-至今",
+            "summary": "国家自然科学基金重大项目，构建适用于高铁数据的大数据分析平台",
             "details": [
-                "页面交互、视觉迭代主要负责人；页面导航结构开发者；编写多个通用性前端控件、数据交互、工具类函数。",
-                "使用Java+JS开发十余个数据可视化页面：运营报表、付费专题、留存专题等、用研团队工具十余个模块。",
-                "编写Python脚本进行MySQL部分页面文件配置转换、日志数据解析等工作。"
+                "使用 Expect 脚本自动搭 建部署 20 节点的 Hadoop 相关数据处理平台",
+                "对Hadoop集群进行运维",
+                "使用 Java 语言对高铁数据进行解析、存储到 HDFS 及 HBase 中",
+                "编写 Spark 和 MapReduce 程序对数据进行分析,并将 Spark PCA 等算法集成到数据分析平台之中",
+                "对 Spark 性能进行优化,包括集群资源的调优与 Spark shuffle 的调优"
             ]
         },
         {
-            "projectName": "One Menu",
-            "role": "兼职开发",
-            "startDate": "2015.08",
-            "endDate": "2015.11",
-            "summary": "为美国创业者开发One Menu（美国O2O外卖订餐App）服务段接口；使用Github、Trello协作。",
+            "projectName": "高铁数据自动采集系统的构建(ETL 工具构建)",
+            "role": "主要开发人员",
+            "startDate": "2015.11",
+            "endDate": "-2016.01",
+            "summary": "结合高铁数据的特殊性, 利用 Java 语言实现适用于高铁数据的 ETL 工具",
             "details": [
-                "使用Spring MVC , Hibernate开发购物车，优惠券相关的数十个后端接口供前端数据获取。",
-                "设计并实现使用责任链+空对象设计模式，处理多优惠劵条件判断、价格计算等逻辑。"
+                "对大量高铁 ATP 数据进行抽取、解析,并对数据进行清洗过滤",
+                "对数据进行清洗过滤",
+                "利用 Spark 相关技术对数据 进行分析查询,将分析查询结果导入到 HBase 数据库",
+                "通过 Spring 框架将结果进行展示",
+                "使用Git 对项目进行管理,包括远程 Git 仓库项目的创建与删除等"
             ]
         },
         {
-            "projectName": "Oracle EBS",
-            "role": "主要成员",
-            "startDate": "2012.11",
-            "endDate": "2013.04",
-            "summary": "与美国、印度研发团队合作，对Oracle EBS(电子商务套件)资产管理（EAM）系统进行新功能开发，系统维护。",
+            "projectName": "百度与西交大大数据竞赛",
+            "role": "骨干成员",
+            "startDate": "2017.06 ",
+            "endDate": "- 至今",
+            "summary": "比赛要求参赛者给出一个算法模型,从给定的训练集中识别宠物狗的种类, 给定 100 类训练数据,训练分类模型,为每张测试数据预测出最可能的 类别标签。",
             "details": [
-                "同时对系统4个版本中业务最复杂的工单、预测维修、报告分析等模块进行新功能开发、代码维护、数据修复。",
-                "与团队一高级工程师一同负责最新子模块线性资产（LAM）的事件服务、REST接口代码开发工作。",
-                "采用MVC模式，使用Java+OAF框架进行Web开发，PL/SQL进行数据验证以及业务逻辑的实现。"
+                "主要负责数据预处理利用 TensorFlow on Spark 的算法的实现，参赛队伍 ScopeSKL"
+            ]
+        },
+        {
+            "projectName": "天池大赛2016阿里巴巴大数据竞赛",
+            "role": "骨干成员",
+            "startDate": "2015.11",
+            "endDate": "2016.01",
+            "summary": "以广东白云机场的大量历史数据为基础分析预测某一时间段机场的客流量时空分布",
+            "details": [
+                "主要负责数据采集的Java实现，SQL Server数据库的优化存储，基于Spark的简单神经网络算法的实现"
+            ]
+        }
+    ],
+    "educations": [
+        {
+            "university": "东北大学",
+            "studyType": "硕士",
+            "major": "控制工程",
+            "startDate": "2015.09",
+            "endDate": "2018.01",
+            "gpa": "",
+            "scholarships": [
+                "二等奖学金"
+            ],
+            "experiences": [
+                "在东北大学流程国家重点实验室，跟随实验室团队参与多个国家自然基金重大项目"
+            ]
+        },
+        {
+            "university": "青岛科技大学",
+            "studyType": "本科",
+            "major": "测控技术",
+            "startDate": "2010.6",
+            "endDate": "2014.06",
+            "gpa": "",
+            "scholarships": [
+                "综合学业奖学金"
+            ],
+            "experiences": [
+                "担任交谊舞协会会长，合理组织社团成员举办交谊舞舞蹈大赛，协助校分团委做好学生社团工作",
+                "在校期间参与校电子设计社团，和社团成员完成单片机的相关项目开发"
             ]
         }
     ],
     "sections": [
         {
-            "title": "开发小工具",
+            "title": "专利文章",
             "fragments": [
                 {
-                    "name": "微信公众号测试客户端",
+                    "name": "专利",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "完成发送HTTP测试数据并解析响应数据的功能测试Swing客户端，大大提高复杂逻辑的公众号功能测试效率。",
-                    "details": []
+                    "summary": "",
+                    "details": [
+                        "一种用于列车 ATP 的数据自动提取与存储系统及方法         申请号: 201610615792.2",
+                        "一种工业过程实时大数据压缩存储系统及方法 申请号: 201610702102.7",
+                        "一种基于车载和云端的列车故障诊断系统及方法 申请号: 201611154208.4"
+                    ]
                 },
                 {
-                    "name": "火狐搜索插件",
+                    "name": "IFAC 会议文章:",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "独立编写快速搜索小插件，使用Spring MVC+HttpClient完成搜索推荐（如热门微博）的数据格式适配。",
-                    "details": []
+                    "summary": "",
+                    "details": [
+                        "A Framework and Platform for Fault Diagnosis of High-Speed Train based on Big Data."
+                    ]
                 }
             ]
         },
@@ -99,50 +153,42 @@
             "title": "培训经历",
             "fragments": [
                 {
-                    "name": "甲骨文人才发展中心",
-                    "comment": "2013校招培训项目",
-                    "startDate": "2013.09",
-                    "endDate": "2013.12",
-                    "summary": "",
+                    "name": "神策数据驱动大会",
+                    "comment": "神策数据公司",
+                    "startDate": "2016.11.01",
+                    "endDate": "2016.11.06",
+                    "summary": "培训内容",
                     "details": [
-                        "校招深圳研发中心B组组长，第一届甲骨文编程马拉松中获带领小组获项目“创新奖”，本人获“优秀小组长"
+                        "商业大数据的平台的基本架构",
+                        "Hadoop大数据生态圈发展",
+                        "大数据分析师专业技能",
+                        "数据分析平台的概念和技术"
                     ]
-                },
-                {
-                    "name": "甲骨文大学",
-                    "comment": "技术培训",
-                    "startDate": "2013.7",
-                    "endDate": "2013.9",
-                    "summary": "参与甲骨文大学(对外)Java7 、SQL、PL/SQL、Oracle Application Framework（OAF）等7门技术培训课程。",
-                    "details": []
                 }
-            ]
+            ],
+            "points": []
         },
         {
-            "title": "英语能力",
-            "points": [
-                "无障碍阅读原版技术书籍、文档、StackOverflow",
-                "能与跨国团队协作",
-                "英语六级、剑桥商务英语国际证书。"
-            ]
-        }
-    ],
-    "educations": [
-        {
-            "university": "华南农业大学",
-            "studyType": "本科",
-            "major": "软件工程",
-            "startDate": "2009.07",
-            "endDate": "2013.07",
-            "gpa": "3.93/5.00",
-            "scholarships": [
-                "二等奖学金"
+            "title": "其他",
+            "fragments": [
+                {
+                    "name": "自我评价",
+                    "comment": "性格乐观外向，抗压能力较强，喜欢尝试新鲜的事务，有geek精神，具有一定的领导组织能力",
+                    "startDate": "",
+                    "endDate": "",
+                    "summary": "",
+                    "details": []
+                },
+                {
+                    "name": "兴趣爱好",
+                    "comment": "读书，游泳，浏览技术博客",
+                    "startDate": "",
+                    "endDate": "",
+                    "summary": "",
+                    "details": []
+                }
             ],
-            "experiences": [
-                "英语口语协会会长，信息技术中心常务部副部长，软件学院助理班主任",
-                "社团类荣誉：2010年度华南农业大学“优秀团干部”、2009年度华南农业大学“优秀团员”",
-                "实践类荣誉：2010亚运会志愿服务“志愿者先进个人”、“突出贡献奖”、第四届“新鲜人”才艺大赛二等奖"
-            ]
+            "points": []
         }
     ]
 }
